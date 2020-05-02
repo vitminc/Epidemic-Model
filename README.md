@@ -14,6 +14,8 @@ and simulate development of the epidemic with the impact of different factors wi
 
 For example for Germany is only 4 input parameters (numbers) necessary.  
 
+See Data folder for details.
+
 ![Epidemic](https://getimg.germany.ru/g/https://foren.germany.ru/images/upload/1/7/856617/IMAGE.PNG)
 
 ![Population](https://getimg.germany.ru/g/https://foren.germany.ru/images/upload/1/7/856617/02.05.2020-PGRAPH.PNG)
