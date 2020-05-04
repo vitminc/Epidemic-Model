@@ -15,8 +15,6 @@ See Data folder for details.
 
 ![Epidemic](https://getimg.germany.ru/g/https://foren.germany.ru/images/upload/1/7/856617/IMAGE.PNG)
 
-![Population](https://getimg.germany.ru/g/https://foren.germany.ru/images/upload/1/7/856617/02.05.2020-PGRAPH.PNG)
-
 ![Regression](https://getimg.germany.ru/g/https://foren.germany.ru/images/upload/1/7/856617/02.05.2020-REG1.PNG)
 
 ![Cases](https://getimg.germany.ru/g/https://foren.germany.ru/images/upload/1/7/856617/02.05.2020-CDGRAPH.PNG)
