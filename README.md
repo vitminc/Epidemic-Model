@@ -6,7 +6,7 @@ The model allows to calculate different epidemic characteristics such as
 -	Epidemic time with and without restrictions
 -	Predict fatalities
 -	Impact of restrictive actions
--	Population immunity at any given point
+-	Population immunity at any given point by known rate to detected cases
 
 and simulate the development of an epidemic considering the impact of different factors with the help of a few parameters.
 For example, for the epidemic of Covid-19 in Germany only 4 input parameters (numbers) are necessary.
